@@ -1,4 +1,4 @@
-# KAIM Week 11 Interim Submission
+
 ## Task 1: Preprocess and Explore Financial Data
 Repository for 10 Academy KAIM Week 11 Challenge, Task 1. Focuses on preprocessing and EDA for TSLA, BND, and SPY using yfinance.
 
@@ -16,4 +16,5 @@ Repository for 10 Academy KAIM Week 11 Challenge, Task 1. Focuses on preprocessi
 ### Notes
 - Data: July 1, 2015–July 31, 2025.
 - Assets: TSLA (high-growth), BND (stable bonds), SPY (market ETF).
+
 - Next: Forecast TSLA prices (Task 2).
